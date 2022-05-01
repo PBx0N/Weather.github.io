@@ -12,7 +12,7 @@ The website contains 7 pages total, including:
   - A descriptive title and heading tag.
   - The visualisations for the selected comparison to latitude.
   - A paragraph describing the plot and its significance.
-  - The visualisations can be located in "Resources"/"assets" folders.
+  - The visualisations can be located in "Resources"/"assets"/"images" folders.
   
 3. A Comparison page (Comparison.html) that:
   - Contains all of the visualisations
