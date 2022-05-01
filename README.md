@@ -1,5 +1,7 @@
 # Weather.github.io
 
+#Click https://pbx0n.github.io/Weather.github.io/ to check out the website!
+
 The website contains 7 pages total, including:
 
 1. A landing page (index.html) containing:
